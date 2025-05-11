@@ -26,8 +26,8 @@ Ensure you have:
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/heart-disease-prediction.git
-   cd heart-disease-prediction
+   git clone https://github.com/samififteen/Heart-Disease-Prediction.git
+   cd Heart-Disease-Prediction
 2. Run the Application:
     ```
     python app.py
